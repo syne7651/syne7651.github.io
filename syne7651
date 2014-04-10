@@ -1,0 +1,4 @@
+$ mkdir /path/to/source-code
+$ cd /path/to/source-code
+$ git clone https://github.com/syne7651/syne7651.github.io.git
+$ cd syne7651.github.io
